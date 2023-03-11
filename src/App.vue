@@ -21,6 +21,7 @@
 </style>
 
 <script>
+
 import Land from '../components/layout/Land.vue';
 
 import Navbar from '../components/layout/Navbar.vue';
